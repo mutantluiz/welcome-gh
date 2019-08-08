@@ -1,0 +1,24 @@
+{
+  "name": "welcome-gh",
+  "version": "1.0.0",
+  "description": "Study GraphQL",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mutantluiz/welcome-gh.git"
+  },
+  "author": "Luiz Filho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mutantluiz/welcome-gh/issues"
+  },
+  "homepage": "https://github.com/mutantluiz/welcome-gh#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.4.2"
+  }
+}
